@@ -1,0 +1,4 @@
+node_modules/
+dist/
+agent-check-results.json
+.DS_Store
